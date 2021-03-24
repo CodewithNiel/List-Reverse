@@ -1,5 +1,5 @@
 # List-Reverse
-You visited a restaurant called CodeWithHarry, and the food items in that restaurant are sorted, based on their amount of calories. You have to reserve this list of food items containing calories.
+You visited a restaurant called EatingMania, and the food items in that restaurant are sorted, based on their amount of calories. You have to reserve this list of food items containing calories.
 
 You have to use the following three methods to reserve a list:
 
